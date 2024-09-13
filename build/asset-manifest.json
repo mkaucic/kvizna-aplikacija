@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5e6c2781.css",
+    "main.js": "./static/js/main.92dadd98.js",
+    "static/media/croatian-flag.png": "./static/media/croatian-flag.cd022dda2038f921b577.png",
+    "static/media/uk-flag.png": "./static/media/uk-flag.fd3cc16b1d467f956537.png",
+    "index.html": "./index.html",
+    "main.5e6c2781.css.map": "./static/css/main.5e6c2781.css.map",
+    "main.92dadd98.js.map": "./static/js/main.92dadd98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e6c2781.css",
+    "static/js/main.92dadd98.js"
+  ]
+}
